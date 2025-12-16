@@ -34,10 +34,14 @@ export function Navigation({ currentPage, onNavigate }: NavigationProps) {
             onClick={() => handleNavigate('home')}
             className="flex items-center gap-3 group"
           >
-            <div className="hidden sm:block">
-              <div className="text-blue-600">KSM BEDAH PLASTIK</div>
-              <div className="text-xs text-gray-500">Department of Plastic Surgery</div>
+          <div>
+            <div className="text-blue-600 text-sm sm:text-base">
+              KSM BEDAH PLASTIK
             </div>
+            <div className="hidden sm:block text-xs text-gray-500">
+              Department of Plastic Surgery
+            </div>
+          </div>
           </button>
 
           {/* Desktop Navigation */}
