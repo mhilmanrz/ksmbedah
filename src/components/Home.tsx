@@ -129,7 +129,7 @@ export function Home({ onNavigate }: HomeProps) {
             <div className="relative">
               <div className="relative rounded-2xl overflow-hidden shadow-2xl">
                 <ImageWithFallback
-                  src="https://images.unsplash.com/photo-1579684288452-b334934f845f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBob3NwaXRhbCUyMHN1cmdlcnl8ZW58MXx8fHwxNzY1NTEwMTQ3fDA&ixlib=rb-4.1.0&q=80&w=1080"
+                  src="https://6940cd50a562ffab0078eee5.imgix.net/WhatsApp%20Image%202025-12-16%20at%2010.10.36.jpeg"
                   alt="Modern surgical facility"
                   className="w-full h-[500px] object-cover"
                 />
