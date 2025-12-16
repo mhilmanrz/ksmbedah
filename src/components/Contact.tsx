@@ -312,7 +312,7 @@ export function Contact() {
             <div className="aspect-video bg-gradient-to-br from-blue-100 to-blue-50 flex items-center justify-center">
               <div className="text-center">
                 <MapPin className="w-16 h-16 text-blue-600 mx-auto mb-4" />
-                <div className="text-gray-900 mb-2">KSM Bedah</div>
+                <div className="text-gray-900 mb-2">KSM BEDAH PLASTIK</div>
                 <p className="text-xs text-gray-600 mb-4">
                   Jl. Rumah Sakit No. 123, Jakarta Pusat 10430
                 </p>

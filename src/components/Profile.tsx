@@ -4,7 +4,7 @@ import { ImageWithFallback } from './figma/ImageWithFallback';
 export function Profile() {
   const teamStructure = [
     {
-      position: 'Kepala KSM Bedah',
+      position: 'Kepala KSM BEDAH PLASTIK',
       name: 'Prof. Dr. dr. Ahmad Surya, Sp.B(K)Onk',
       specialty: 'Spesialis Bedah Onkologi',
     },
@@ -49,7 +49,7 @@ export function Profile() {
       <section className="bg-gradient-to-br from-blue-600 to-blue-700 text-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="max-w-3xl">
-            <h1 className="text-white mb-4">Profil KSM Bedah</h1>
+            <h1 className="text-white mb-4">Profil KSM BEDAH PLASTIK</h1>
             <p className="text-blue-100">
               Kelompok Staf Medis Bedah yang berdedikasi memberikan pelayanan bedah terpadu, 
               profesional, dan berkualitas tinggi untuk kesembuhan optimal pasien
@@ -63,10 +63,10 @@ export function Profile() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div>
-              <h2 className="text-gray-900 mb-6">Tentang KSM Bedah</h2>
+              <h2 className="text-gray-900 mb-6">Tentang KSM BEDAH PLASTIK</h2>
               <div className="space-y-4 text-gray-600">
                 <p>
-                  KSM Bedah merupakan unit pelayanan bedah terpadu yang menangani berbagai 
+                  KSM BEDAH PLASTIK merupakan unit pelayanan bedah terpadu yang menangani berbagai 
                   kasus bedah mulai dari bedah umum, bedah digestif, bedah onkologi, bedah 
                   vaskular, hingga bedah anak dengan pendekatan holistik dan komprehensif.
                 </p>
@@ -76,7 +76,7 @@ export function Profile() {
                   setiap pasien yang kami layani.
                 </p>
                 <p>
-                  Sejak didirikan, KSM Bedah telah menangani ribuan kasus bedah dengan tingkat 
+                  Sejak didirikan, KSM BEDAH PLASTIK telah menangani ribuan kasus bedah dengan tingkat 
                   keberhasilan yang tinggi dan kepuasan pasien yang optimal.
                 </p>
               </div>

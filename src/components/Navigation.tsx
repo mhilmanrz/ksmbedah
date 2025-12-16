@@ -34,12 +34,9 @@ export function Navigation({ currentPage, onNavigate }: NavigationProps) {
             onClick={() => handleNavigate('home')}
             className="flex items-center gap-3 group"
           >
-            <div className="w-10 h-10 bg-gradient-to-br from-blue-500 to-blue-600 rounded-lg flex items-center justify-center shadow-md group-hover:shadow-lg transition-shadow">
-              <span className="text-white">RSCM</span>
-            </div>
             <div className="hidden sm:block">
-              <div className="text-blue-600">KSM Bedah</div>
-              <div className="text-xs text-gray-500">Surgical Department</div>
+              <div className="text-blue-600">KSM BEDAH PLASTIK</div>
+              <div className="text-xs text-gray-500">Department of Plastic Surgery</div>
             </div>
           </button>
 

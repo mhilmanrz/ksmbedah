@@ -62,7 +62,7 @@ export function Home({ onNavigate }: HomeProps) {
     {
       name: 'Budi Santoso',
       role: 'Pasien Bedah Digestif',
-      content: 'Pelayanan yang sangat profesional dan penuh perhatian. Tim dokter menjelaskan setiap prosedur dengan detail. Terima kasih KSM Bedah!',
+      content: 'Pelayanan yang sangat profesional dan penuh perhatian. Tim dokter menjelaskan setiap prosedur dengan detail. Terima kasih KSM BEDAH PLASTIK!',
       rating: 5,
     },
     {
@@ -90,7 +90,7 @@ export function Home({ onNavigate }: HomeProps) {
                 Surgical Excellence
               </div>
               <h1 className="text-gray-900">
-                KSM Bedah – Layanan Bedah Terpadu & Profesional
+                KSM BEDAH PLASTIK – Layanan Bedah Terpadu & Profesional
               </h1>
               <p className="text-gray-600">
                 Menyediakan layanan bedah berkualitas tinggi dengan teknologi modern, 

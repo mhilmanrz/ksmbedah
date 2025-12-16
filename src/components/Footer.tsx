@@ -40,8 +40,8 @@ export function Footer({ onNavigate }: FooterProps) {
                 <span className="text-white">RSCM</span>
               </div>
               <div>
-                <div className="text-white">KSM Bedah</div>
-                <div className="text-xs text-gray-400">Surgical Department</div>
+                <div className="text-white">KSM BEDAH PLASTIK</div>
+                <div className="text-xs text-gray-400">Department of Plastic Surgery</div>
               </div>
             </div>
             <p className="text-xs text-gray-400 mb-4">
@@ -152,7 +152,7 @@ export function Footer({ onNavigate }: FooterProps) {
         <div className="border-t border-gray-700 mt-8 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <p className="text-xs text-gray-400">
-              © 2024 KSM Bedah. All rights reserved.
+              © 2024 KSM BEDAH PLASTIK. All rights reserved.
             </p>
             <div className="flex gap-6">
               <a href="#" className="text-xs text-gray-400 hover:text-blue-400 transition-colors">
