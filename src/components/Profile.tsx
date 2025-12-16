@@ -102,7 +102,7 @@ export function Profile() {
             <div className="relative">
               <div className="rounded-2xl overflow-hidden shadow-xl">
                 <ImageWithFallback
-                  src="https://images.unsplash.com/photo-1764885415563-8b868745e9e2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxob3NwaXRhbCUyMGJ1aWxkaW5nJTIwZXh0ZXJpb3J8ZW58MXx8fHwxNzY1NTEwMTQ5fDA&ixlib=rb-4.1.0&q=80&w=1080"
+                  src="https://scontent.fdps17-1.fna.fbcdn.net/v/t39.30808-6/472716483_1259041472210397_5230570006002178571_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=cc71e4&_nc_ohc=5cGMqNytj_IQ7kNvwGl9PD6&_nc_oc=AdmkZKrHZ664x0s7qN7EWOW9MNHsnRNAw5il4FLH952L5bGAFxXFzcegYMCXFQw1S1Q&_nc_zt=23&_nc_ht=scontent.fdps17-1.fna&_nc_gid=HSyv9wQv6EHES4Ok0e8YVA&oh=00_AfmBhECmvTdwZ2M29Fa4w8iY-aQfONV7aQAuIcBUAETzgA&oe=694699BF"
                   alt="Hospital building"
                   className="w-full h-[500px] object-cover"
                 />
